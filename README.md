@@ -10,4 +10,4 @@
 
 2. automate respective comments with specific commented keyword eg - link etc
 
-3. like if they comment link means i will fetchinto there profile and send a link or anything else 
+3. like if they comment link means i will fetchinto there profile and send a link or anything else (As DM)
